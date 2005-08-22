@@ -32,6 +32,8 @@ W3C Working Draft 15 September 2003
 17 Tables                          |css-tables|
 18 User interface                  |css-ui|
 
+MM XHTML 1.0 specs                 |xhtml-spec|
+
    This version:
            http://www.w3.org/TR/2003/WD-CSS21-20030915
 
@@ -49,6 +51,14 @@ W3C Working Draft 15 September 2003
 
    Copyright (c) 2003 W3C(r) (MIT, ERCIM, Keio), All Rights Reserved. W3C
    liability, trademark, document use and software licensing rules apply.
+
+=============================================================================
+MM note: XHTML specification                     *xhtml-spec*
+
+You should also check XHTML 1.0 Strict specification and Web Content
+Accessibility Guidelines at:
+
+	http://www.vim.org/scripts/script.php?script_id=1130 ~
 
 =============================================================================
 
@@ -11388,4 +11398,5 @@ properties
    agent should keep the text within the comic strip balloon.
 
    -------------------------------------------------------------------------
+
  vim:tw=78:ts=8:ft=help:norl:
