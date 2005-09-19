@@ -8,7 +8,7 @@
 	      for Vim help format prepared by Mikolaj Machowski
 
 
-W3C Working Draft 15 September 2003
+W3C Working Draft 15 September 2003            *css*
 
 1 About the CSS 2.1 Specification  |css-about|
 2 Introduction to CSS 2.1          |css-intro|
